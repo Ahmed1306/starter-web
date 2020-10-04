@@ -1,0 +1,9 @@
+A Durable Data API (DDA) Rest API responsible exchanging data
+securely with the third parties. The API acts as the intermediary
+between integrators (financial institutions) and implementers
+(aggregators, fintechs) for the benefit of end user/customer.
+ Extensively tested the data transformation & authentication logic.
+ Developed Threat Model for API using Microsoft Stride model.
+ Mocked regular Apigee APIs using SOAtest Virtualize.
+ Executed the QA Pipelines, Automated Notifications using the
+atlassian tool stack.
