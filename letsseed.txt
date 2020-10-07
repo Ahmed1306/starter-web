@@ -1,3 +1,5 @@
 Add a seed file to go with the read file. This is just going to have some random text. I am making some changes to the text here and adding another sentence.
 tyfghv
 ugugjgj gjhgjhgjh
+
+Adding another line to the file to check the merging of branches
