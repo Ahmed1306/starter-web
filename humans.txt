@@ -6,7 +6,7 @@
     <Ahmed> -- <admin> -- <ahmed@twitter.com>
 
 # THANKS
-
+Thanks to all my well wishers and supporters
     <name>
 
 # TECHNOLOGY COLOPHON
