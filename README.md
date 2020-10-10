@@ -13,3 +13,4 @@ The copyright info goes here
 
 ## example commit to test rebase
 adding a line to check the rebase option
+adding one line from myfeaturebranch_7 into the readme file
